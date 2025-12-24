@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Smart Mechanic pro2026",
+  "description": "تطبيق لتشخيص وقراءة أكواد أعطال الشاحنات (Multi-Brand) بالذكاء الاصطناعي",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "bluetooth"
+  ]
+}

@@ -1,0 +1,23 @@
+
+{
+  "name": "Smart Mechanic",
+  "short_name": "Smart Mechanic",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#dc2626",
+  "description": "نظام تشخيص أعطال الشاحنات الذكي (رينو، فولفو، مرسيدس، سكانيا) وقاعدة بيانات الأعطال",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/741/741407.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/741/741407.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
